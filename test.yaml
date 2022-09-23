@@ -3,5 +3,6 @@ kind: Component
 metadata:
   name: test-project
   description: test
-  id: test-project
+  id: test
   date: '2022-09-25'
+  
