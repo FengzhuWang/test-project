@@ -2,7 +2,7 @@ apiVersion: 1.0
 kind: Component
 metadata:
   name: test-project
-  description: test
-  id: test
+  description: testDescription
+  id: testId
   date: '2022-09-25'
   
